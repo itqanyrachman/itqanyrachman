@@ -1,5 +1,5 @@
-## Hi there 👋
-# Hi 👋, I'm A.A Muhammad Itqany Rachman
+# Hi there 👋
+## I'm A.A Muhammad Itqany Rachman
 
 ### A passionate Quality Assurance Specialist from Indonesia 🇮🇩
 
