@@ -26,8 +26,8 @@
  
 ✉️ **How to Reach Me:**
 
-* [cite_start]**Email:** [m.itqanyrachman@gmail.com](mailto:m.itqanyrachman@gmail.com) 
-* [cite_start]**LinkedIn:** [linkedin.com/in/itqanyrachman](https://www.linkedin.com/in/itqanyrachman) 
+* 📧**Email:** [m.itqanyrachman@gmail.com](mailto:m.itqanyrachman@gmail.com) 
+* 🔗**LinkedIn:** [linkedin.com/in/itqanyrachman](https://www.linkedin.com/in/itqanyrachman) 
 
 ---
 
@@ -40,7 +40,7 @@
 
 **📊 Most Used Languages:**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itqanyrachmana&layout=compact&theme=radical&hide_border=true)](https://github.com/itqanyrachman/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itqanyrachman&layout=compact&theme=radical&hide_border=true)](https://github.com/itqanyrachman/github-readme-stats)
 
 ---
 <!--
